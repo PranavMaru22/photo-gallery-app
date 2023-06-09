@@ -1,0 +1,73 @@
+export const data = [
+    
+    {
+        "name": "Benjamin Uncle",
+        "url": require("../images/ben.jpg"),
+        "description": "Our Ben uncle's image.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Dragon",
+        "url": require("../images/dragon.jpg"),
+        "description": "A Dragon image.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Goat(not MESSI)",
+        "url": require("../images/goat.jpg"),
+        "description": "A goat image.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Anime",
+        "url": require("../images/anime.jpg"),
+        "description": "An Anime Image.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Ape",
+        "url": require("../images/ape.jpg"),
+        "description": "An Ape image.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Lionel Messi",
+        "url": require("../images/messi.jpg"),
+        "description": "Real.GOAT.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Monkey",
+        "url": require("../images/monkey.jpg"),
+        "description": "A Monkey image.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Shanghai",
+        "url": require("../images/shanghai.jpg"),
+        "description": "Image of ancient Shanghai city.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+    {
+        "name": "The Smurfs",
+        "url": require("../images/smurfs.jpg"),
+        "description": "The smurfs Image.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Despicable Me 2",
+        "url": require("../images/toons.jpg"),
+        "description": "The despicable me2 family.",
+        "date": "2023-06-09",
+        "type": "image/jpg",
+    },
+]
